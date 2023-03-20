@@ -1,0 +1,40 @@
+
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(sky.webp);
+  background-size: cover;
+  font-family: 'Bangers';
+  color: 
+  font-size: large;
+  font-weight: 700;
+ text-align: center;
+ padding: 90px;
+}
+h1{
+  
+}
+#month{
+  padding: 5px;
+  width: 15%;
+  border: none;
+  border-radius: 6px;
+  height: 40px;
+  margin-right: 7px;
+}
+#day{
+  padding: 5px;
+  width: 15%;
+  border: none;
+  border-radius: 6px;
+  height: 40px;
+}
+#check{
+  margin-top: 10px;
+  padding: 15px;
+  border-radius: 6px;
+  border: none;
+  background-color: fuchsia;
+  color: white;
+}
